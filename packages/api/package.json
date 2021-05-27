@@ -44,7 +44,7 @@
     "node-ssh-forward": "^0.7.2",
     "portfinder": "^1.0.28",
     "simple-encryptor": "^4.0.0",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "tar": "^6.0.5",
     "uuid": "^3.4.0"
   },

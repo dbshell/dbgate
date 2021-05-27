@@ -49,7 +49,7 @@
   "dependencies": {
     "concurrently": "^5.1.0",
     "patch-package": "^6.2.1",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "copyfiles": "^2.2.0",
